@@ -6,6 +6,8 @@ a regular expression, processes lines of input text received
 from `stdin` using that regular expression to quantify matches,
 and finally writes each matching input line to `stdout`.
 
+**NOTE: requires ^python3.8**
+
 ## Installation
 
 ```
