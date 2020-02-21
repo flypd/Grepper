@@ -6,6 +6,12 @@ a regular expression, processes lines of input text received
 from `stdin` using that regular expression to quantify matches,
 and finally writes each matching input line to `stdout`.
 
+## Installation
+
+```
+>>> pip install git+https://github.com/flypd/Grepper
+```
+
 ## Usage example
 ```
 >>> cat input.txt
